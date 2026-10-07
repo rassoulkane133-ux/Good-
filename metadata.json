@@ -1,0 +1,6 @@
+{
+  "name": "PulseFit - Entraînement & Suivi Fitness",
+  "description": "Application complète de fitness : programmes d'entraînement interactifs, bibliothèque d'exercices avec anatomie, minuteur HIIT, suivi nutritionnel et statistiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
